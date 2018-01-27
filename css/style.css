@@ -1,0 +1,10 @@
+/*
+.item {
+    height: 350px;
+    background-color: #ccc;
+    border-bottom: 1px solid black;
+}
+
+.item:nth-child(2n) {
+    background-color: red;
+}*/
